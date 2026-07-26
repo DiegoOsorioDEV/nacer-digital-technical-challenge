@@ -191,13 +191,13 @@ Pendiente de desplegar.
 
 https://github.com/DiegoOsorioDEV/nacer-digital-technical-challenge
 
-**Frontend (Producción)**
+**Frontend**
 
-*Pendiente*
+*https://nacer-digital-technical-challenge.vercel.app*
 
-**Backend (Producción)**
+**Backend**
 
-*Pendiente*
+*https://nacer-digital-technical-challenge.onrender.com*
 
 ---
 
