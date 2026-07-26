@@ -5,7 +5,7 @@ import type {
 } from "@/types/github-user";
 
 const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:3001";
+  process.env.NEXT_PUBLIC_API_URL ?? "https://nacer-digital-technical-challenge.onrender.com";
 
 export const GITHUB_USERNAME = "DiegoOsorioDEV";
 
