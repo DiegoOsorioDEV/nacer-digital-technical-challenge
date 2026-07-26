@@ -167,21 +167,15 @@ https://api.github.com/users/{username}
 
 ---
 
-## 📷 Capturas
-
-Puedes agregar aquí capturas de pantalla de la aplicación una vez desplegada.
-
----
-
 ## 🚀 Despliegue
 
 ### Frontend
 
-Pendiente de desplegar en Vercel.
+Vercel.com
 
 ### Backend
 
-Pendiente de desplegar.
+Render.com
 
 ---
 
